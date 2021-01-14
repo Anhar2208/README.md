@@ -25,7 +25,7 @@
     </div>
     <input class="slide" type="radio" name="slider-1" id="s-1-2" /><label for="s-1-2"></label>
     <div>
-      <img src="paradis.jpg" />
+      <img src="Paradis.jpg" />
       <div class="content">
         <h3>Paradis Island</h3>
         <p> adalah pulau besar tempat ketiga Tembok berada, dan wilayah terakhir Eldia.</p>
